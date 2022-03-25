@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">abdulrad_oblig2</string>
+    <string name="text_view1">Text View1</string>
+    <string name="textview2">textview2</string>
+    <string name="textview3">textview3</string>
+
+    <string-array name="distriktValg">
+        <item>Dirstrikt 1</item>
+        <item>Dirstrikt 2</item>
+        <item>Dirstrikt 3</item>
+    </string-array>
+
+</resources>
